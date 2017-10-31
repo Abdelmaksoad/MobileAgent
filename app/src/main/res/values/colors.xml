@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_green">#73bf2b</color>
+    <color name="color_white">#ffffff</color>
+    <color name="login_background">#ffffff</color>
+    <color name="color_royal_blue">#0046b3</color>
+    <color name="color_sky_blue">#3399ff</color>
+    <color name="lightcolor_sky_blue">#0080FF</color>
+    <color name="color_orange">#f4600d</color>
+    <color name="color_blue">#0000ff</color>
+    <color name="color_lightgrey">#dddddd</color>
+    <color name="color_lightRed">#cf2428</color>
+    <color name="color_holored_light">#ffff4444</color>
+
+    <!-- card colors -->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow_1">#eeeeee</color>
+    <color name="card_shadow_2">#dddeee</color>
+    <color name="card_detailing">#eee</color>
+    <color name="disable_btn_color">#eac5c4</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

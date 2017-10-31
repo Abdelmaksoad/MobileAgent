@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_pressed="true"
+    android:drawable="@color/lightcolor_sky_blue" /> <!-- pressed -->
+<item android:drawable="@color/color_sky_blue" /> <!-- default -->
+<shape
+    android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <solid android:color="#3399ff"/>
+    <corners
+        android:topLeftRadius="8dp"
+        android:topRightRadius="8dp"
+        android:bottomLeftRadius="8dp"
+        android:bottomRightRadius="8dp"
+        />
+    </shape>
+    </selector>
